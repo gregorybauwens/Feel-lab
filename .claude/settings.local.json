@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "mcp__figma__generate_figma_design",
+      "Bash(open:*)"
+    ]
+  }
+}
